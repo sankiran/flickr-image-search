@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrImageSearch</string>
+    <string name="search_bar_hint">Search Flickr</string>
+    <string name="error_service_failure">Failed to retrieve images.</string>
+</resources>
